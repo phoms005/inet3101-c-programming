@@ -82,25 +82,43 @@ The program also allows users to cancel a seat assignment or deletion by enterin
 
 
 
-Screenshots showing the program's inputs and outputs will be added here.
+\### Screenshot 1 — Main Menu and Flight Selection
 
 
 
-Screenshots include examples of:
+!\[Screenshot 1](screenshot1.png)
 
 
 
-\* Main menu and flight selection
+\### Screenshot 2 — Empty Seats
 
-\* Empty seat count
 
-\* Empty seat list
 
-\* Customer seat assignment
+!\[Screenshot 2](screenshot2.png)
 
-\* Alphabetical customer list
 
-\* Seat assignment deletion
+
+\### Screenshot 3 — Customer Assignment
+
+
+
+!\[Screenshot 3](screenshot3.png)
+
+
+
+\### Screenshot 4 — Alphabetical List
+
+
+
+!\[Screenshot 4](screenshot4.png)
+
+
+
+\### Screenshot 5 — Delete Seat Assignment
+
+
+
+!\[Screenshot 5](screenshot5.png)
 
 
 
