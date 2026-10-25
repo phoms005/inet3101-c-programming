@@ -1,0 +1,6 @@
+# Compiled program and object files
+billing
+*.o
+
+# Local GDBM database
+billing.db
