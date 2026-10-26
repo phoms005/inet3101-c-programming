@@ -78,7 +78,7 @@ Remove compiled files:
 
 ## Demo Video
 
-Add a publicly viewable demo video link here after recording a demonstration of at least five minutes.
+https://mediaspace.umn.edu/media/t/1_c5vklqow
 
 ## GitHub Repository
 
